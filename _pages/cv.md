@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mechanics <br/>
-  AEM Department, University of Minnesota, 2020 (expected) <br/>
+  AEM Department, University of Minnesota, USA, 2020 (expected) <br/>
   Advisors: [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo), [Jorge Viñals](https://www.physics.umn.edu/people/vinals.html)
 
 * M.S. in Mechanical Engineering <br/>
@@ -20,7 +20,7 @@ Education
   Advisors: [Gustavo R. dos Anjos](https://gustavorabello.github.io/), [José Pontes](http://www.gesar.uerj.br/en/staff/professor-jose-pontes.html)
 
 * B.S. in Materials Engineering, *magna cum laude* <br/>
-  MetalMat, Rio de Janeiro Federal University (UFRJ), 2014 <br/>
+  MetalMat, Rio de Janeiro Federal University (UFRJ), Brazil, 2014 <br/>
   Advisor: [Celio Costa](http://www.metalmat.ufrj.br/index.php/br/o-pemm/corpo-docente/professores/25-celio-albano-da-costa-neto)
 
 
