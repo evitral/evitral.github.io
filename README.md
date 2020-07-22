@@ -1,1 +1,1 @@
-Personal website, based on the academicpages template - originally, a fork from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+Personal website, based on the [academicpages template](https://github.com/academicpages/academicpages.github.io) - originally, a fork from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
