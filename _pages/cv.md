@@ -37,5 +37,5 @@ Honors and Awards
 Professional Memberships
 ======
 * APS - American Physical Society, Division of Soft Matter
-* SNP - Society for Natural Phylosophy
+* SNP - Society for Natural Philosophy
 * ILCS - International Liquid Crystal Society
