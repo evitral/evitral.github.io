@@ -23,7 +23,7 @@ You can also find my list of publications in [Google Scholar](https://scholar.go
 
 1. _**Spiral defect chaos in Rayleigh-Bénard convection: Asymptotic and numerical studies of azimuthal flows induced by rotating spirals**_,
 E.&#160;Vitral, S.&#160;Mukherjee, P.H.&#160;Leo, J.&#160;Viñals, M.R.&#160;Paul, and Z-F.&#160;Huang <br />
-Submitted to Physical Review Fluids <br />
+Physical Review Fluids, in press <br />
 [[arXiv]](https://arxiv.org/abs/2006.00147)
 
 2. _**Stripe patterns orientation resulting from nonuniform forcings
@@ -37,7 +37,7 @@ Submitted to Journal of Computational and Applied Mathematics
 
 4. _**Model of the dynamics of an interface between a smectic phase and an isotropic phase of different density**_,
 E.&#160;Vitral, P.H.&#160;Leo, and J.&#160;Viñals <br />
-[Physical Review Fluids, in press (2020)](https://journals.aps.org/prfluids/accepted/79071S3bCf01fe0e71a700f0ce714c1a51cd1f922) <br />
+[Physical Review Fluids 5, 073302 (2020)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.073302) <br />
 
 5. _**Role of Gaussian curvature on local equilibrium and dynamics of smectic-isotropic interfaces**_,
 E.&#160;Vitral, P.H.&#160;Leo, and J.&#160;Viñals <br />
