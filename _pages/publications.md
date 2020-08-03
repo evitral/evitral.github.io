@@ -33,11 +33,13 @@ Submitted to Physical Review E
 
 3. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_,
 D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
-Submitted to Journal of Computational and Applied Mathematics
+Submitted to Journal of Computational and Applied Mathematics <br />
+[[arXiv]](https://arxiv.org/abs/2007.16080)
 
 4. _**Model of the dynamics of an interface between a smectic phase and an isotropic phase of different density**_,
 E.&#160;Vitral, P.H.&#160;Leo, and J.&#160;Viñals <br />
 [Physical Review Fluids 5, 073302 (2020)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.073302) <br />
+[[arXiv]](https://arxiv.org/abs/2007.15804)
 
 5. _**Role of Gaussian curvature on local equilibrium and dynamics of smectic-isotropic interfaces**_,
 E.&#160;Vitral, P.H.&#160;Leo, and J.&#160;Viñals <br />
