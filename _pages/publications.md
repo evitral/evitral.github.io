@@ -17,7 +17,8 @@ author_profile: true
 {% endfor %}
 -->
 
-You can also find my list of publications in [Google Scholar](https://scholar.google.com/citations?user=fP9lSWsAAAAJ&hl=en)
+You can also find my list of publications in [Google Scholar](https://scholar.google.com/citations?user=fP9lSWsAAAAJ&hl=en) <br />
+For author name, I go by: Eduardo Vitral or E. Vitral
 
 ### Journal articles
 

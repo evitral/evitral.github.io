@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "A brief bio"
-excerpt: "About me"
+title: "Eduardo Vitral: mechanics and patterns"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,4 +18,3 @@ My research interests lie in mechanics of materials and soft matter, including:
 * Interplay between mechanics, geometry, and pattern formation
 * Motion and interaction of topological defects
 * Phase-field modeling, including flows and non-classical stresses
-
