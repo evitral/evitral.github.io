@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Eduardo Vitral: mechanics and patterns"
+title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -12,9 +12,11 @@ I am a PhD candidate at the Department of Aerospace Engineering and Mechanics, U
 
 I will be joining Prof. [James Hanna's group](https://cmag.neocities.org/index.html) at the University of Nevada Reno as a postdoc in Fall&#160;2020.
 
-My research interests lie in mechanics of materials and soft matter, including:
+My **research interests** lie in mechanics of materials and soft matter, including:
 
 * Continuum mechanical description of soft materials
 * Interplay between mechanics, geometry, and pattern formation
 * Motion and interaction of topological defects
 * Phase-field modeling, including flows and non-classical stresses
+
+For **author name**, I go by: Eduardo Vitral or E. Vitral
