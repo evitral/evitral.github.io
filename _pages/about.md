@@ -19,4 +19,4 @@ My **research interests** lie in mechanics of materials and soft matter, includi
 * Motion and interaction of topological defects
 * Phase-field modeling, including flows and non-classical stresses
 
-For **author name**, I go by: Eduardo Vitral or E. Vitral
+For **author name**, I go by: Eduardo Vitral or E. Vitral. You can reach me at [evitral@unr.edu](mailto:evitral@unr.edu)

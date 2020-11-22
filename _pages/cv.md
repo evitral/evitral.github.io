@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Mechanics <br/>
   AEM Department, University of Minnesota, USA, 2020 <br/>
-  Advisors: [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo), [Jorge Viñals](https://www.physics.umn.edu/people/vinals.html)
+  Advisors: [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo), [Jorge Viñals](https://cse.umn.edu/physics/jorge-vinals)
 
 * M.S. in Mechanical Engineering <br/>
   PPGEM, Rio de Janeiro State University (UERJ), Brazil, 2015 <br/>

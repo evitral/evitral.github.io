@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fP9lSWsAAAAJ&hl=en" 
-  email            :
+  email            : "evitral@unr.edu"
   researchgate     : "https://www.researchgate.net/profile/Eduardo_Vitral"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/eduardo-vitral/"
   orcid            : "http://orcid.org/0000-0003-1958-7123"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : # "eduardo_vitral"
   vine             :
   weibo            :
   xing             :
