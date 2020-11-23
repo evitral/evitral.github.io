@@ -23,13 +23,14 @@ You can also find my list of publications in [Google Scholar](https://scholar.go
 
 1. _**Spiral defect chaos in Rayleigh-Bénard convection: Asymptotic and numerical studies of azimuthal flows induced by rotating spirals**_,
 E.&#160;Vitral, S.&#160;Mukherjee, P.H.&#160;Leo, J.&#160;Viñals, M.R.&#160;Paul, and Z-F.&#160;Huang <br />
-Physical Review Fluids, in press <br />
+[Physical Review Fluids 5, 093501 (2020)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.093501) <br />
 [[arXiv]](https://arxiv.org/abs/2006.00147)
 
 2. _**Stripe patterns orientation resulting from nonuniform forcings
 and other competitive effects in the Swift-Hohenberg dynamics**_, 
 D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
 Submitted to Physical Review E
+[[arXiv]](https://arxiv.org/abs/2008.00319)
 
 3. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_,
 D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
