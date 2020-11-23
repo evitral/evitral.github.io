@@ -29,7 +29,7 @@ E.&#160;Vitral, S.&#160;Mukherjee, P.H.&#160;Leo, J.&#160;Viñals, M.R.&#160;Pau
 2. _**Stripe patterns orientation resulting from nonuniform forcings
 and other competitive effects in the Swift-Hohenberg dynamics**_, 
 D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
-Submitted to Physical Review E
+Submitted to Physical Review E <br />
 [[arXiv]](https://arxiv.org/abs/2008.00319)
 
 3. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_,
