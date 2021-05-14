@@ -27,6 +27,7 @@ E.&#160;Vitral, J.A.&#160;Hanna <br />
 
 2. _**Phase-field model for a weakly compressible soft layered material: morphological transitions on smectic-isotropic interfaces**_, 
 E.&#160;Vitral, P.H.&#160;Leo, and J.&#160;Viñals <br />
+[Soft Matter (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00488c#!divAbstract) <br />
 [[arXiv]](https://arxiv.org/abs/2103.16734)
 
 3. _**Spiral defect chaos in Rayleigh-Bénard convection: Asymptotic and numerical studies of azimuthal flows induced by rotating spirals**_,
