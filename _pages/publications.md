@@ -23,22 +23,24 @@ You can also find my list of publications in [Google Scholar](https://scholar.go
 
 1. _**Quadratic-stretch elasticity**_, 
 E.&#160;Vitral, J.A.&#160;Hanna <br />
+[Mathematics and Mechanics of Solids (2021)](https://journals.sagepub.com/doi/abs/10.1177/10812865211022417?ai=1gvoi&mi=3ricys&af=R) <br />
 [[arXiv]](https://arxiv.org/abs/2104.11714)
 
-2. _**Phase-field model for a weakly compressible soft layered material: morphological transitions on smectic-isotropic interfaces**_, 
+2. _**Stripe patterns orientation resulting from nonuniform forcings
+and other competitive effects in the Swift-Hohenberg dynamics**_, 
+D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
+[Physica D (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0167278921001573) <br />
+[[arXiv]](https://arxiv.org/abs/2008.00319)
+
+3. _**Phase-field model for a weakly compressible soft layered material: morphological transitions on smectic-isotropic interfaces**_, 
 E.&#160;Vitral, P.H.&#160;Leo, and J.&#160;Viñals <br />
 [Soft Matter (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00488c#!divAbstract) <br />
 [[arXiv]](https://arxiv.org/abs/2103.16734)
 
-3. _**Spiral defect chaos in Rayleigh-Bénard convection: Asymptotic and numerical studies of azimuthal flows induced by rotating spirals**_,
+4. _**Spiral defect chaos in Rayleigh-Bénard convection: Asymptotic and numerical studies of azimuthal flows induced by rotating spirals**_,
 E.&#160;Vitral, S.&#160;Mukherjee, P.H.&#160;Leo, J.&#160;Viñals, M.R.&#160;Paul, and Z-F.&#160;Huang <br />
 [Physical Review Fluids 5, 093501 (2020)](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.093501) <br />
 [[arXiv]](https://arxiv.org/abs/2006.00147)
-
-4. _**Stripe patterns orientation resulting from nonuniform forcings
-and other competitive effects in the Swift-Hohenberg dynamics**_, 
-D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
-[[arXiv]](https://arxiv.org/abs/2008.00319)
 
 5. _**Numerical scheme for solving the nonuniformly forced cubic and quintic Swift-Hohenberg equations strictly respecting the Lyapunov functional**_,
 D.L.&#160;Coelho, E.&#160;Vitral, J.&#160;Pontes, and N.&#160;Mangiavacchi <br />
