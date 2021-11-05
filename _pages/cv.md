@@ -23,6 +23,10 @@ Education
   MetalMat, Federal University of Rio de Janeiro (UFRJ), Brazil, 2014 <br/>
   Advisor: [Celio Costa](http://www.metalmat.ufrj.br/index.php/br/o-pemm/corpo-docente/professores/25-celio-albano-da-costa-neto)
 
+Professional Experience
+======
+* University of Nevada, Reno <br/>
+  Postdoctoral scholar, Mechanical Engineering, 2020 - ongoing
 
 Honors and Awards
 ======
@@ -36,6 +40,6 @@ Honors and Awards
 
 Professional Memberships
 ======
-* APS - American Physical Society, Division of Soft Matter
+* APS - American Physical Society, DSOFT and GSNP
 * SNP - Society for Natural Philosophy
 * ILCS - International Liquid Crystal Society
