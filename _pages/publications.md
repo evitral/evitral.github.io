@@ -23,7 +23,7 @@ You can also find my list of publications in [Google Scholar](https://scholar.go
 
 1. _**Dilation-invariant bending energy of elastic plates, and broken symmetry in shells**_,
 E.&#160;Vitral, J.A.&#160;Hanna <br />
-[[arXiv]](https://arxiv.org/abs/2007.16080)
+[[arXiv]](https://arxiv.org/abs/2111.01349)
 
 2. _**An inverted Rivlin-type universal relation for simple shear**_,
 J.G.&#160;Murphy, G.&#160;Saccomandi, and E.&#160;Vitral <br />
