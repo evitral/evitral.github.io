@@ -25,6 +25,10 @@ You can also find my list of publications in [Google Scholar](https://scholar.go
 E.&#160;Vitral, J.A.&#160;Hanna <br />
 [[arXiv]](https://arxiv.org/abs/2111.01349)
 
+2. _**Energies for elastic plates and shells from quadratic-stretch elasticity**_,
+E.&#160;Vitral, J.A.&#160;Hanna <br />
+[[arXiv]](https://arxiv.org/abs/2201.05608)
+
 
 ### Journal articles
 
