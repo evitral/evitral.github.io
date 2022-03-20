@@ -30,9 +30,10 @@ Professional Experience
 
 Honors and Awards
 ======
+* GSNP Postdoctoral Speaker Award, APS March Meeting 2022
 * Doctoral Dissertation Fellowship, University of Minnesota, 2019
 * V Rio de Janeiro Engineering Council Prize for Scientific and Technical Work, 2016
-* Award for highest GPA among all graduating engineering classes, Federal University of Rio de Janeiro, October 2014
+* Award for highest GPA among all graduating engineering classes, UFRJ, 2014
 * BRAFITEC Scholarship, Brazil-France undergraduate exchange program, 2012
 * Kyocera Student Scholar, 4th International Congress on Ceramics, Chicago, 2012
 * Petrobras PFRH 35 Scholarship, structural integrity program, 2011
