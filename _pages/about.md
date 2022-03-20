@@ -14,9 +14,9 @@ I obtained my PhD from the Department of Aerospace Engineering and Mechanics, Un
 
 My **research interests** lie in mechanics of materials and soft matter, including:
 
-* Continuum mechanics: nonlinear elasticity and fluids
+* Continuum mechanics: nonlinear elasticity, soft materials and fluids
 * Interplay between mechanics, geometry, and pattern formation
-* Crumpling and wrinkling in soft materials
+* Crumpling and wrinkling in elastic sheets
 * Motion and interaction of topological defects
 * Phase-field modeling, including flows and non-classical stresses
 
