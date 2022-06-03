@@ -21,6 +21,11 @@ You can also find my list of publications in [Google Scholar](https://scholar.go
 
 ### Preprint
 
+1. _**Remarks on stretch formulations and the Poynting effect in nonlinear elasticity**_,
+E.&#160;Vitral <br />
+[[arXiv]](https://arxiv.org/abs/2206.00764)
+
+
 ### Journal articles
 
 1. _**Dilation-invariant bending energy of elastic plates, and broken symmetry in shells**_,
