@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at University of Nevada Reno, Mechanical Engineering Department, working in Prof. [James Hanna's group](https://cmag.neocities.org/index.html). We are interested in bending energies for plates and shells, and have worked on deriving them from the reduction of a quadratic-stretch 3D elasticity theory. We are also investigating pattern formation and crumple dynamics on curved elastic sheets.
+I am a Postdoctoral Scholar at the University of Nevada Reno, Mechanical Engineering Department, working in Prof. [James Hanna's group](https://cmag.neocities.org/index.html). Through theoretical modeling and computational work, I seek to understand the thermomechanical behavior of solids: I am interested in how their shape, morphology, and properties evolve in the presence of external stimuli, and how these observations connect to microstructure and constitutive laws. This is an interdisciplinary field between solid mechanics, materials science, and applied mathematics, and the goal is to develop tools for (1) controlling the behavior of structures and materials, and (2) functionalizing them by manufacturing.
 
-I obtained my PhD from the Department of Aerospace Engineering and Mechanics, University of Minnesota, supervised by Profs. [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo) and [Jorge Viñals](https://cse.umn.edu/physics/jorge-vinals). We worked on developing models for smectic-isotropic systems, which were implemented numerically and compared to analytic predictions based on asymptotic analysis (using tools such as differential geometry, and singular perturbation theory). We also investigated the role of azimuthal flows in the Spiral Defect Chaos regime that appears in Rayleigh-Bénard convection, an example of active smectic.
+I obtained my PhD from the Department of Aerospace Engineering and Mechanics, University of Minnesota, supervised by Profs. [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo) and [Jorge Viñals](https://cse.umn.edu/physics/jorge-vinals). I worked on developing models for liquid crystal thin films under heat treatment, which were implemented numerically and compared to analytic predictions based on asymptotic analysis (using tools from differential geometry, and singular perturbation theory). Some of the topics I currently work on are mechanics of shells and ribbons, the role of loading on twinning in alloys, and modeling of nonlinear hyperelastic materials.
 
-My **research interests** lie in mechanics of materials and soft matter, including:
+My **research interests** lie in mechanics of materials, including:
 
-* Continuum mechanics: nonlinear elasticity, soft materials and fluids
+* Continuum mechanics: nonlinear elasticity, soft materials, and nonlocal theories
 * Interplay between mechanics, geometry, and pattern formation
-* Crumpling and wrinkling in elastic sheets
-* Motion and interaction of topological defects
-* Phase-field modeling, including flows and non-classical stresses
+* Structural instabilities and shape actuation
+* Phase-field modeling of soft materials and interfaces
+* Motion and interaction of topological defects, twinning
 
 For **author name**, I go by: Eduardo Vitral or E. Vitral. You can reach me at [evitral@unr.edu](mailto:evitral@unr.edu)

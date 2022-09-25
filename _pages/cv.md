@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mechanics <br/>
+* Ph.D. in Aerospace Engineerin and Mechanics - Minor in Mathematics <br/>
   AEM Department, University of Minnesota, USA, 2020 <br/>
   Advisors: [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo), [Jorge Viñals](https://cse.umn.edu/physics/jorge-vinals)
 
@@ -33,6 +33,7 @@ Honors and Awards
 * GSNP Postdoctoral Speaker Award, APS March Meeting 2022
 * Doctoral Dissertation Fellowship, University of Minnesota, 2019
 * V Rio de Janeiro Engineering Council Prize for Scientific and Technical Work, 2016
+* Politécnica Alumni Association Award for best Materials Engineering graduate, 2015
 * Award for highest GPA among all graduating engineering classes, UFRJ, 2014
 * BRAFITEC Scholarship, Brazil-France undergraduate exchange program, 2012
 * Kyocera Student Scholar, 4th International Congress on Ceramics, Chicago, 2012
@@ -43,4 +44,4 @@ Professional Memberships
 ======
 * APS - American Physical Society, DSOFT and GSNP
 * SNP - Society for Natural Philosophy
-* ILCS - International Liquid Crystal Society
+* EUROMECH - European Mechanics Society
