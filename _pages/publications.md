@@ -32,7 +32,7 @@ C.O.&#160;Horgan, E.&#160;Vitral
 
 1. _**The role of mechanical loading in bcc-hcp phase transition: tension-compression asymmetry and twin formation**_,
 A.H.&#160;Zahiri, E.&#160;Vitral, J.&#160;Ombogo, M.&#160;Lotfpour, L.&#160;Cao <br />
-Acta Materialia (2022, accepted)
+[Acta Materialia (2022)](https://www.sciencedirect.com/science/article/abs/pii/S1359645422007558)
 
 2. _**Dilation-invariant bending energy of elastic plates, and broken symmetry in shells**_,
 E.&#160;Vitral, J.A.&#160;Hanna <br />
