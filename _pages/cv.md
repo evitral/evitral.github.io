@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Aerospace Engineerin and Mechanics - Minor in Mathematics <br/>
+* Ph.D. in Mechanics - Minor in Mathematics <br/>
   AEM Department, University of Minnesota, USA, 2020 <br/>
   Advisors: [Perry H. Leo](https://cse.umn.edu/aem/perry-h-leo), [Jorge Viñals](https://cse.umn.edu/physics/jorge-vinals)
 
@@ -25,8 +25,12 @@ Education
 
 Professional Experience
 ======
+* Rose-Hulman Institute of Technology <br/>
+  Assistant Professor, Mechanical Engineering, since 2023
+
 * University of Nevada, Reno <br/>
-  Postdoctoral scholar, Mechanical Engineering, 2020 - ongoing
+  Postdoctoral Scholar, Mechanical Engineering, 2020 - 2023 <br/>
+  Advisor: [James Hanna](http://cmag.neocities.org/)
 
 Honors and Awards
 ======
